@@ -1,0 +1,11 @@
+Precios (unicos y total)
+Diseño de la estructura (ergonomico y fachero)
+Cantidad de PLA consumido
+Consumo de electricidad
+programacion C++
+Evaluar precios del mercado de diferentes joystick
+definir la calidad de nuestro joystick
+agregar vibracion
+botones ¿Impreso o comprado?
+imanes y sensores de efecto HALL
+ver como hacer modelos para impresion 3D
