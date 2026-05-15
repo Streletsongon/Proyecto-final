@@ -1,0 +1,19 @@
+Gastos principales:
+
+Infraestructura:
+plastico PLA
+resortes
+imanes
+
+electronico:
+microcontrolador arduino
+botones
+acelerador (throtle)
+potenciometro (eje x ("-x" y "x"))
+cables
+resisntecias (si es necesario)
+sensor hall
+
+gastos aparte:
+electricidad
+mano de obra
